@@ -32,17 +32,10 @@ body {
 
 .markdown-section img {
   padding: 8px;
-  background: #e4e4e478;
   transition: all 1s;
-  box-sizing: border-box;
-  box-shadow: 0 0 4px #dcdcdc;
   margin-left: 10px;
   margin-right: 10px;
   max-width: 95%;
-}
-
-.markdown-section img:hover {
-  box-shadow: 0 0 10px #bbb
 }
 
 .exc-trigger {
