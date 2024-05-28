@@ -1,12 +1,9 @@
 {
   "name": "gitbook-plugin-theme-canyon",
-  "author": {
-    "name": "modnarshen"
-  },
+  "author": "Modnar Shen",
   "bugs": {
     "url": "https://github.com/Modnars/gitbook-plugin-theme-canyon/issues"
   },
-  "dependencies": {},
   "description": "A brief gitbook theme.",
   "engines": {
     "gitbook": ">=3.0.0"
@@ -23,5 +20,6 @@
     "url": "git+https://github.com/Modnars/gitbook-plugin-theme-canyon.git"
   },
   "scripts": {},
-  "version": "1.0.5"
+  "version": "1.0.5",
+  "license": "ISC"
 }

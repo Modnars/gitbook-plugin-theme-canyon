@@ -139,10 +139,11 @@ body {
   display: block;
   float: left;
   height: 60px;
-  width: 270px;
-  background: url('./swift.svg');
+  width: 240px;
+  background: url('./svg.svg');
   background-size: 191px 59px;
   background-repeat: no-repeat;
+  margin: 0 0 0 30px;
 }
 
 .header-inner .logo img {
